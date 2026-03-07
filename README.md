@@ -8,7 +8,6 @@
 
 </div>
 <p align="center">
-* ❤️ Anime and Gaming
   * <details><summary>📺 Favourite Animes</summary>
     <ul>
       <li><a href="https://anilist.co/anime/130298/Kage-no-Jitsuryokusha-ni-Naritakute/"> Kage no Jitsuryokusha ni Naritakute! </li>
