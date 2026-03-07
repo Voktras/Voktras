@@ -16,14 +16,14 @@
       <li><a href="https://anilist.co/anime/130003/Bocchi-the-Rock/"> Bocchi The Rock! </li></a>
     </ul>
     </details>
-  * <details><summary>🎮 Favourite Games</summary>
-    <ul>
-      <li>🌊 Wuthering Waves</li>
-      <li>⌛Black Desert Online </li>
-      <li><img width=20 src="./img/emil.png"> Nier Replicant / Automata</li>
-      <li><img width=20 src="./img/2hu.ico"> Touhou Project</li>
-    </ul>
-    </details>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,python,git,github,linux,arch,nixos,neovim&perline=8"/>
+</p>
+
+</p>
+
+<div align="center">
+
 
 ```scala
 "still figuring things out"
