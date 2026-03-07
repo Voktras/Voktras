@@ -19,8 +19,6 @@
     </details>
        <details><summary>🎵 Favourite Songs</summary>
     <ul>
-      <li>🌊 Wuthering Waves</li>
-      <li>⌛Black Desert Online </li>
       <li><img width=20 src="https://open.spotify.com/track/1XD4K4CGAKTIBmFpvuaFru?si=f9e06ea2b3cf4b96">Dancing with your eyes closed </li>
       <li><img width=20 src="https://open.spotify.com/album/0a9A5YTj5U1wBb9PwxSkMU?si=qbz-Q17VTz638f0fx2eJww"> Bedrott by duskydemise</li>
     </ul>
