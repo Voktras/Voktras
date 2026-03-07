@@ -28,9 +28,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,git,github,linux,arch,nix,neovim&perline=8"/>
 </p>
+
 # Feeding...
 ![Snake animation](https://raw.githubusercontent.com/PrRahil/PrRahil/output/github-contribution-grid-snake-dark.svg)
 
+</p>
 <div align="center">
 
 
