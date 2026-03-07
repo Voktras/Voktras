@@ -4,13 +4,14 @@
 </p>
 <div align="center">
 
-# Hello! 👋
+# Hello! I'm Voktra👋
+
 
 </div>
 <p align="center">
   <img src="./img/test1.gif" align="right" width=200px></img>
-  * ❤️ Anime and Music
-  * <details><summary>📺 Favourite Animes</summary>
+   ❤️ Anime and Music 🎵
+   <details><summary>📺 Favourite Animes</summary>
     <ul>
       <li><a href="https://anilist.co/anime/130298/Kage-no-Jitsuryokusha-ni-Naritakute/"> Kage no Jitsuryokusha ni Naritakute! </li>
       <li><a href="https://anilist.co/anime/171627/Chainsaw-Man-Rezehen/"> Chainsaw Man: Reze-hen</li>
