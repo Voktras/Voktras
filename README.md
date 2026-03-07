@@ -1,6 +1,6 @@
 <img align="center" src="./img/flowers.png">
 <p align="center">
-  <img src="./img/coffee.gif" alt="coffee" width="150">
+  <img src="./img/coffee.gif" alt="coffee" width="250">
 </p>
 <div align="center">
 
