@@ -17,7 +17,7 @@
     </ul>
     </details>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,git,github,linux,arch,nixos,neovim&perline=8"/>
+  <img src="https://skillicons.dev/icons?i=bash,python,git,github,terminal,linux,arch,nix,neovim&perline=8"/>
 </p>
 
 </p>
