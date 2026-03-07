@@ -22,7 +22,7 @@
       <li>🌊 Wuthering Waves</li>
       <li>⌛Black Desert Online </li>
       <li><img width=20 src="./img/emil.png"> </li>
-      <li><img width=20 src="./img/2hu.ico"> Bedrott by duskydemise</li>
+      <li><img width=20 src="./img/bedrott.jpg"> Bedrott by duskydemise</li>
     </ul>
     </details>
 
