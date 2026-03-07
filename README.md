@@ -4,7 +4,7 @@
 </p>
 <div align="center">
 
-# Hello! I'm Voktra👋
+# Hello! 👋
 
 
 </div>
@@ -28,8 +28,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=bash,python,git,github,linux,arch,nix,neovim&perline=8"/>
 </p>
-
-</p>
+# Feeding...
+![Snake animation](https://raw.githubusercontent.com/PrRahil/PrRahil/output/github-contribution-grid-snake-dark.svg)
 
 <div align="center">
 
